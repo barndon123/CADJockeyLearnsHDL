@@ -1,0 +1,2 @@
+@E: CG243 :"C:\lscc\iCEcube2.2020.12\Projects\Go Board Tutorials\LUTs\And_Gate.v":2:19:2:19|Expecting ) or comma delimiter
+

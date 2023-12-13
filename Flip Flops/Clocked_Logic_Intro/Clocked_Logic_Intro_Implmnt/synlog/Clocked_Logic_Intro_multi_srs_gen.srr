@@ -1,0 +1,14 @@
+Synopsys Netlist Linker, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+File C:\lscc\iCEcube2.2020.12\Projects\Go Board Tutorials\Flip Flops\Clocked_Logic_Intro\Clocked_Logic_Intro_Implmnt\synwork\Clocked_Logic_Intro_comp.srs changed - recompiling
+@N: NF107 :"C:\lscc\iCEcube2.2020.12\Projects\Go Board Tutorials\Flip Flops\Clocked_Logic_Intro.v":3:7:3:25|Selected library: work cell: Switch_1_LED_Toggle view verilog as top level
+@N: NF107 :"C:\lscc\iCEcube2.2020.12\Projects\Go Board Tutorials\Flip Flops\Clocked_Logic_Intro.v":3:7:3:25|Selected library: work cell: Switch_1_LED_Toggle view verilog as top level
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 67MB peak: 68MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Sat Nov 04 14:31:27 2023
+
+###########################################################]

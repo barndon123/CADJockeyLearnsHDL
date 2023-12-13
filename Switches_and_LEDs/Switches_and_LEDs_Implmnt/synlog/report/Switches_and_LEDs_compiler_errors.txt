@@ -1,0 +1,2 @@
+@E: CG906 :"C:\lscc\iCEcube2.2020.12\Projects\Switches_and_LEDs\switches_and_leds.v":15:21:15:30|Reference to unknown variable i_Switch_4.
+

@@ -1,0 +1,46 @@
+Running in Lattice mode
+
+
+Starting:    C:\lscc\iCEcube2.2020.12\synpbase\bin64\mbin\synbatch.exe
+Install:     C:\lscc\iCEcube2.2020.12\synpbase
+Hostname:    BRANDON_LAPTOP
+Date:        Sat Nov 04 00:21:21 2023
+Version:     L-2016.09L+ice40
+
+Arguments:   -product synplify_pro -batch And_Gate_syn.prj
+ProductType: synplify_pro
+
+
+
+
+
+log file: "C:\lscc\iCEcube2.2020.12\Projects\Go Board Tutorials\LUTs\And_Gate\And_Gate_Implmnt\And_Gate.srr"
+Running: And_Gate_Implmnt in foreground
+
+Running And_Gate_syn|And_Gate_Implmnt
+
+Running: compile (Compile) on And_Gate_syn|And_Gate_Implmnt
+# Sat Nov 04 00:21:21 2023
+
+Running: compile_flow (Compile Process) on And_Gate_syn|And_Gate_Implmnt
+# Sat Nov 04 00:21:21 2023
+
+Running: compiler (Compile Input) on And_Gate_syn|And_Gate_Implmnt
+# Sat Nov 04 00:21:21 2023
+compiler exited with errors
+Job failed on: And_Gate_syn|And_Gate_Implmnt
+
+Job: "compiler" terminated with error status: 2
+See log file: "C:\lscc\iCEcube2.2020.12\Projects\Go Board Tutorials\LUTs\And_Gate\And_Gate_Implmnt\synlog\And_Gate_compiler.srr"
+# Sat Nov 04 00:21:21 2023
+
+Return Code: 2
+Run Time:00h:00m:00s
+Complete: Compile Process on And_Gate_syn|And_Gate_Implmnt
+Complete: Compile on And_Gate_syn|And_Gate_Implmnt
+Complete: Logic Synthesis on And_Gate_syn|And_Gate_Implmnt
+
+exit status=2
+
+exit status=2
+
