@@ -1,7 +1,0 @@
-C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe  -link  -multisrs  "C:\lscc\iCEcube2.2020.12\Projects\Go Board Tutorials\Flip Flops\Clocked_Logic_Intro\Clocked_Logic_Intro_Implmnt\synwork\Clocked_Logic_Intro_comp.srs"  -osyn  "C:\lscc\iCEcube2.2020.12\Projects\Go Board Tutorials\Flip Flops\Clocked_Logic_Intro\Clocked_Logic_Intro_Implmnt\synwork\Clocked_Logic_Intro_mult.srs"  -log  "C:\lscc\iCEcube2.2020.12\Projects\Go Board Tutorials\Flip Flops\Clocked_Logic_Intro\Clocked_Logic_Intro_Implmnt\synlog\Clocked_Logic_Intro_multi_srs_gen.srr" 
-rc:0 success:1 runtime:0
-file:C:\lscc\iCEcube2.2020.12\Projects\Go Board Tutorials\Flip Flops\Clocked_Logic_Intro\Clocked_Logic_Intro_Implmnt\synwork\Clocked_Logic_Intro_comp.srs|io:i|time:1699133486|size:1714|exec:0
-file:C:\lscc\iCEcube2.2020.12\Projects\Go Board Tutorials\Flip Flops\Clocked_Logic_Intro\Clocked_Logic_Intro_Implmnt\synwork\Clocked_Logic_Intro_mult.srs|io:o|time:1699133487|size:1478|exec:0
-file:C:\lscc\iCEcube2.2020.12\Projects\Go Board Tutorials\Flip Flops\Clocked_Logic_Intro\Clocked_Logic_Intro_Implmnt\synlog\Clocked_Logic_Intro_multi_srs_gen.srr|io:o|time:1699133487|size:954|exec:0
-file:C:\lscc\iCEcube2.2020.12\synpbase\bin\syn_nfilter.exe|io:i|time:1699064570|size:3128320|exec:1
-file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1699064571|size:3947520|exec:1

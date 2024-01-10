@@ -1,7 +1,0 @@
-ble_pack r_Switch_1_LC_1_4_1 { r_Switch_1_THRU_LUT4_0, r_Switch_1 }
-ble_pack r_LED_1_LC_1_4_7 { r_LED_1_RNO, r_LED_1 }
-clb_pack LT_1_4 { r_Switch_1_LC_1_4_1, r_LED_1_LC_1_4_7 }
-set_location LT_1_4 1 4
-set_io o_LED_1 25
-set_io i_Switch_1 21
-set_io i_Clk 13
