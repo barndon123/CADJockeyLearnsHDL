@@ -1,2 +1,0 @@
-@E: CG246 :"C:\lscc\iCEcube2.2020.12\Projects\Go Board Tutorials\Flip Flops\Clocked_Logic_Intro.v":4:3:4:7|Expecting parameter name
-

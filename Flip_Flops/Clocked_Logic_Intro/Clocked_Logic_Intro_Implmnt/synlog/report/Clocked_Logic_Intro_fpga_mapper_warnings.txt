@@ -1,2 +1,0 @@
-@W: FX1039 :"c:\lscc\icecube2.2020.12\projects\go board tutorials\flip flops\clocked_logic_intro.v":12:0:12:5|User-specified initial value defined for instance r_LED_1 is being ignored. 
-@W: FX1039 :"c:\lscc\icecube2.2020.12\projects\go board tutorials\flip flops\clocked_logic_intro.v":12:0:12:5|User-specified initial value defined for instance r_Switch_1 is being ignored. 
